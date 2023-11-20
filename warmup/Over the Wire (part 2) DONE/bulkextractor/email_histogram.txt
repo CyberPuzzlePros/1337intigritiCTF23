@@ -1,0 +1,7 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: email
+# Filename: otw_pt2.pcapng
+# Histogram-File-Version: 1.1
+n=8	0xm4hm0ud@example.com
+n=8	cryptocat@example.com

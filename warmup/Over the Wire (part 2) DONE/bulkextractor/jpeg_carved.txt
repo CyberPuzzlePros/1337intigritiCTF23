@@ -1,0 +1,6 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: jpeg_carved
+# Filename: otw_pt2.pcapng
+# Feature-File-Version: 1.1
+9445511-BASE64-0	jpeg_carved/000/9445511-BASE64-0.jpg	<fileobject><filename>jpeg_carved/000/9445511-BASE64-0.jpg</filename><filesize>10211</filesize><hashdigest type='sha1'>42d174e20fca686cbfe2d23f4d5984ec6ec7c7b7</hashdigest></fileobject>

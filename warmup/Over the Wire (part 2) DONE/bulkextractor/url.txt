@@ -1,0 +1,285 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: url
+# Filename: otw_pt2.pcapng
+# Feature-File-Version: 1.1
+9445511-BASE64-650	http://www.iec.ch	desc\000\000\000\000\000\000\000\026IEC http://www.iec.ch\000\000\000\000\000\000\000\000\000\000\000\026IEC 
+9445511-BASE64-683	http://www.iec.ch	\000\000\000\000\000\000\000\000\000\000\000\026IEC http://www.iec.ch\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000
+1789208	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\016\006\003U\035\017\001\001\377\004\004\003\002\005\2400
+1789304	http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0H	\035\037\004\201\2270\201\2240H\240F\240D\206Bhttp://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0H\240F\240D\206Bhttp://crl
+1789378	http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0	A1-1.crl0H\240F\240D\206Bhttp://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0\201\207\006\010+\006\001\005\005\007\001\001\004{0y
+1789475	http://ocsp.digicert.com0Q	0y0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0Q\006\010+\006\001\005\005\0070\002\206Ehttp
+1789513	http://cacerts.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crt0	om0Q\006\010+\006\001\005\005\0070\002\206Ehttp://cacerts.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+1790993	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+1791031	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0B\006\003U\035\037\004;0907\2405\2403\206
+1791102	http://crl3.digicert.com/DigiCertGlobalRootG2.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl0=\006\003U\035 \0046040\013\006\011`\206H
+2315100	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\016\006\003U\035\017\001\001\377\004\004\003\002\005\2400
+2315196	http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0H	\035\037\004\201\2270\201\2240H\240F\240D\206Bhttp://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0H\240F\240D\206Bhttp://crl
+2315270	http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0	A1-1.crl0H\240F\240D\206Bhttp://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0\201\207\006\010+\006\001\005\005\007\001\001\004{0y
+2315367	http://ocsp.digicert.com0Q	0y0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0Q\006\010+\006\001\005\005\0070\002\206Ehttp
+2315405	http://cacerts.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crt0	om0Q\006\010+\006\001\005\005\0070\002\206Ehttp://cacerts.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+2316885	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+2316923	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0B\006\003U\035\037\004;0907\2405\2403\206
+2316994	http://crl3.digicert.com/DigiCertGlobalRootG2.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl0=\006\003U\035 \0046040\013\006\011`\206H
+4041141	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4041234	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+4041281	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+4042667	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+4042716	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+4042781	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4043851	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+4043899	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+4043962	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+4045239	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+4045269	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+4045309	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+4553565	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4553658	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+4553705	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+4555179	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+4555228	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+4555293	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4556627	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+4556675	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+4556738	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+4558015	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+4558045	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+4558085	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+4559653	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4559746	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+4559793	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+4561355	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+4561404	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+4561469	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4562627	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+4562675	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+4562738	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+4564103	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+4564133	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+4564173	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+4594337	http://secure.globalsign.com/cacert/gsgccr3dvtlsca2020.crt09	\201\2030F\006\010+\006\001\005\005\0070\002\206:http://secure.globalsign.com/cacert/gsgccr3dvtlsca2020.crt09\006\010+\006\001\005\005\0070\001\206-http
+4594409	http://ocsp.globalsign.com/gsgccr3dvtlsca20200V	rt09\006\010+\006\001\005\005\0070\001\206-http://ocsp.globalsign.com/gsgccr3dvtlsca20200V\006\003U\035 \004O0M0A\006\011+\006\001
+4594494	https://www.globalsign.com/repository/0	0402\006\010+\006\001\005\005\007\002\001\026&https://www.globalsign.com/repository/0\010\006\006g\201\014\001\002\0010\011\006\003U\035\023
+4594572	http://crl.globalsign.com/gsgccr3dvtlsca2020.crl0#	\003U\035\037\004:0806\2404\2402\2060http://crl.globalsign.com/gsgccr3dvtlsca2020.crl0#\006\003U\035\021\004\0340\032\202\014*.ads
+4596298	http://ocsp2.globalsign.com/rootr30;	0m0.\006\010+\006\001\005\005\0070\001\206"http://ocsp2.globalsign.com/rootr30;\006\010+\006\001\005\005\0070\002\206/http
+4596346	http://secure.globalsign.com/cacert/root-r3.crt06	r30;\006\010+\006\001\005\005\0070\002\206/http://secure.globalsign.com/cacert/root-r3.crt06\006\003U\035\037\004/0-0+\240)\240'\206
+4596412	http://crl.globalsign.com/root-r3.crl0G	\003U\035\037\004/0-0+\240)\240'\206%http://crl.globalsign.com/root-r3.crl0G\006\003U\035 \004@0>0<\006\004U\035 
+4596484	https://www.globalsign.com/repository/0	0402\006\010+\006\001\005\005\007\002\001\026&https://www.globalsign.com/repository/0\015\006\011*\206H\206\367\015\001\001\013\005\000\003\202
+4635851	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@	\035\037\004\201\2070\201\2040@\240>\240<\206:http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@\240>\240<\206:http://crl
+4635917	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0	A1-4.crl0@\240>\240<\206:http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0>\006\003U\035 \00470503\006\006g\201
+4636012	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\006\010+\006\001\005\005\007\001\001\004s0q0
+4636069	http://ocsp.digicert.com0I	0q0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0I\006\010+\006\001\005\005\0070\002\206=http
+4636107	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0	om0I\006\010+\006\001\005\005\0070\002\206=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0\011\006\003U\035\023\004\0020\0000\202\001}\006\012
+4637740	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+4637778	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+4637849	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+4877749	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4877842	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+4877889	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+4879275	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+4879324	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+4879389	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+4880459	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+4880507	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+4880570	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+4881847	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+4881877	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+4881917	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+5183747	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2001%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2001%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+5183858	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\0242\0229\347 \362
+5185326	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2001.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2001.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+5187383	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+5187421	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+5187492	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+5187549	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+5210601	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+5210694	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+5210741	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+5212303	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+5212352	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+5212417	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+5213487	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+5213535	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+5213598	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+5214983	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+5215013	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+5215053	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+5228101	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+5228194	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+5228241	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+5229627	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+5229676	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+5229741	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+5231763	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+5231811	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+5231874	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+5232975	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+5233005	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+5233045	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+5599110	http://crl.r2m01.amazontrust.com/r2m01.crl0u	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0u\006\010+\006\001\005\005\007\001\001\004i0g0-
+5599182	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+5599229	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+5600790	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+5600839	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+5600904	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+5601974	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+5602022	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+5602085	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+5603782	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+5603812	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+5603852	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+6221302	http://crl.r2m02.amazontrust.com/r2m02.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m02.amazontrust.com/r2m02.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+6221395	http://ocsp.r2m02.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m02.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+6221442	http://crt.r2m02.amazontrust.com/r2m02.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m02.amazontrust.com/r2m02.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+6222830	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+6222879	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+6222944	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+6224190	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+6224238	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+6224301	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+6225578	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+6225608	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+6225648	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+7279428	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@	\035\037\004\201\2070\201\2040@\240>\240<\206:http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@\240>\240<\206:http://crl
+7279494	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0	A1-4.crl0@\240>\240<\206:http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0>\006\003U\035 \00470503\006\006g\201
+7279589	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\006\010+\006\001\005\005\007\001\001\004s0q0
+7279646	http://ocsp.digicert.com0I	0q0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0I\006\010+\006\001\005\005\0070\002\206=http
+7279684	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0	om0I\006\010+\006\001\005\005\0070\002\206=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0\011\006\003U\035\023\004\0020\0000\202\001\200\006\012
+7281144	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+7281182	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+7281253	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+7373958	http://crl.r2m02.amazontrust.com/r2m02.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m02.amazontrust.com/r2m02.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+7374051	http://ocsp.r2m02.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m02.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+7374098	http://crt.r2m02.amazontrust.com/r2m02.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m02.amazontrust.com/r2m02.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+7375486	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+7375535	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+7375600	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+7376670	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+7376718	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+7376781	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+7378058	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+7378088	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+7378128	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+7475652	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2005%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2005%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+7475763	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\024\351?\0354\027D
+7476343	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+7476469	http://www.microsoft.com/pkiops/Docs/Repository.htm0	0A0?\006\010+\006\001\005\005\007\002\001\0263http://www.microsoft.com/pkiops/Docs/Repository.htm0\010\006\006g\201\014\001\002\0020\037\006\003U\035#
+7478116	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+7478154	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+7478225	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+7478282	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+7528504	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+7528615	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\024\2044\363\234\267\005
+7529271	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+7529397	http://www.microsoft.com/pkiops/Docs/Repository.htm0	0A0?\006\010+\006\001\005\005\007\002\001\0263http://www.microsoft.com/pkiops/Docs/Repository.htm0\010\006\006g\201\014\001\002\0020\037\006\003U\035#
+7532137	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+7532175	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+7532246	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+7532303	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+7538708	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+7538819	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\024\2044\363\234\267\005
+7539387	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+7539513	http://www.microsoft.com/pkiops/Docs/Repository.htm0	0A0?\006\010+\006\001\005\005\007\002\001\0263http://www.microsoft.com/pkiops/Docs/Repository.htm0\010\006\006g\201\014\001\002\0020\037\006\003U\035#
+7542517	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+7542555	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+7542626	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+7542683	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+7553695	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2001%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2001%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+7553806	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\0242\0229\347 \362
+7555450	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2001.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2001.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+7557399	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+7557437	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+7557508	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+7557565	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+11062356	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+11062467	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\024\2044\363\234\267\005
+11063123	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+11063249	http://www.microsoft.com/pkiops/Docs/Repository.htm0	0A0?\006\010+\006\001\005\005\007\002\001\0263http://www.microsoft.com/pkiops/Docs/Repository.htm0\010\006\006g\201\014\001\002\0020\037\006\003U\035#
+11065989	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+11066027	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+11066098	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+11066155	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+11403652	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@	\035\037\004\201\2070\201\2040@\240>\240<\206:http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@\240>\240<\206:http://crl
+11403718	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0	A1-4.crl0@\240>\240<\206:http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0>\006\003U\035 \00470503\006\006g\201
+11403813	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\006\010+\006\001\005\005\007\001\001\004s0q0
+11403870	http://ocsp.digicert.com0I	0q0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0I\006\010+\006\001\005\005\0070\002\206=http
+11403908	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0	om0I\006\010+\006\001\005\005\0070\002\206=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0\011\006\003U\035\023\004\0020\0000\202\001\200\006\012
+11405542	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+11405580	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+11405651	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+11528866	http://crl3.digicert.com/DigicertSHA2SecureServerCA-1.crl0?	<\346\334\335P\030\372\360?\342\000\000\240;\2069http://crl3.digicert.com/DigicertSHA2SecureServerCA-1.crl0?\240=\240;\2069http://crl
+11528931	http://crl4.digicert.com/DigicertSHA2SecureServerCA-1.crl0	CA-1.crl0?\240=\240;\2069http://crl4.digicert.com/DigicertSHA2SecureServerCA-1.crl0>\006\003U\035 \00470503\006\006g\201
+11529025	http://www.digicert.com/CPS0~	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0~\006\010+\006\001\005\005\007\001\001\004r0p0$
+11529082	http://ocsp.digicert.com0H	0p0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0H\006\010+\006\001\005\005\0070\002\206<http
+11529120	http://cacerts.digicert.com/DigiCertSHA2SecureServerCA-2.crt0	om0H\006\010+\006\001\005\005\0070\002\206<http://cacerts.digicert.com/DigiCertSHA2SecureServerCA-2.crt0\011\006\003U\035\023\004\0020\0000\202\001}\006\012
+11530750	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+11530788	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0{\006\003U\035\037\004t0r07\2405\2403
+11530859	http://crl3.digicert.com/DigiCertGlobalRootCA.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl07\2405\2403\2061http://crl
+11530916	http://crl4.digicert.com/DigiCertGlobalRootCA.crl00	otCA.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootCA.crl00\006\003U\035 \004)0'0\007\006\005g\201\014
+11552412	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+11552523	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\024\2044\363\234\267\005
+11553003	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+11553129	http://www.microsoft.com/pkiops/Docs/Repository.htm0	0A0?\006\010+\006\001\005\005\007\002\001\0263http://www.microsoft.com/pkiops/Docs/Repository.htm0\010\006\006g\201\014\001\002\0020\037\006\003U\035#
+11556045	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+11556083	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+11556154	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+11556211	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+11810870	http://crl.r2m02.amazontrust.com/r2m02.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m02.amazontrust.com/r2m02.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+11810963	http://ocsp.r2m02.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m02.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+11811010	http://crt.r2m02.amazontrust.com/r2m02.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m02.amazontrust.com/r2m02.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+11812395	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+11812444	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+11812509	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+11813579	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+11813627	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+11813690	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+11814967	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+11814997	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+11815037	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+11820944	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2005%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2005%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+11821055	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\024\351?\0354\027D
+11821635	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+11821761	http://www.microsoft.com/pkiops/Docs/Repository.htm0	0A0?\006\010+\006\001\005\005\007\002\001\0263http://www.microsoft.com/pkiops/Docs/Repository.htm0\010\006\006g\201\014\001\002\0020\037\006\003U\035#
+11823584	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+11823622	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+11823693	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+11823750	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+11831987	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2001%20-%20xsign.crt0-	\201\2360m\006\010+\006\001\005\005\0070\002\206ahttp://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2001%20-%20xsign.crt0-\006\010+\006\001\005\005\0070\001\206!http
+11832098	http://oneocsp.microsoft.com/ocsp0	rt0-\006\010+\006\001\005\005\0070\001\206!http://oneocsp.microsoft.com/ocsp0\035\006\003U\035\016\004\026\004\0242\0229\347 \362
+11833742	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2001.crl0f	\003U\035\037\004]0[0Y\240W\240U\206Shttp://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2001.crl0f\006\003U\035 \004_0]0Q\006\014+\006\001
+11835691	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+11835729	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0{\006\003U\035\037\004t0r07\2405\2403
+11835800	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootG2.crl07\2405\2403\2061http://crl
+11835857	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0	otG2.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootG2.crl0\035\006\003U\035 \004\0260\0240\010\006\006g\201
+12146955	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@	\035\037\004\201\2070\201\2040@\240>\240<\206:http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@\240>\240<\206:http://crl
+12147021	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0	A1-4.crl0@\240>\240<\206:http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0>\006\003U\035 \00470503\006\006g\201
+12147116	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\006\010+\006\001\005\005\007\001\001\004s0q0
+12147173	http://ocsp.digicert.com0I	0q0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0I\006\010+\006\001\005\005\0070\002\206=http
+12147211	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0	om0I\006\010+\006\001\005\005\0070\002\206=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0\011\006\003U\035\023\004\0020\0000\202\001}\006\012
+12148844	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+12148882	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+12148953	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+12359369	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+12359462	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+12359509	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+12360895	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+12360944	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+12361009	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+12362255	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+12362303	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+12362366	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+12363643	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+12363673	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+12363713	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+12365385	http://crl.r2m01.amazontrust.com/r2m01.crl0	\003U\035\037\00440200\240.\240,\206*http://crl.r2m01.amazontrust.com/r2m01.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+12365478	http://ocsp.r2m01.amazontrust.com	0g0-\006\010+\006\001\005\005\0070\001\206!http://ocsp.r2m01.amazontrust.com06\006\010+\006\001\005\005\0070\002\206*ht
+12365525	http://crt.r2m01.amazontrust.com/r2m01.cer0	om06\006\010+\006\001\005\005\0070\002\206*http://crt.r2m01.amazontrust.com/r2m01.cer0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+12367087	http://ocsp.rootca1.amazontrust.com	0m0/\006\010+\006\001\005\005\0070\001\206#http://ocsp.rootca1.amazontrust.com0:\006\010+\006\001\005\005\0070\002\206.ht
+12367136	http://crt.rootca1.amazontrust.com/rootca1.cer0?	om0:\006\010+\006\001\005\005\0070\002\206.http://crt.rootca1.amazontrust.com/rootca1.cer0?\006\003U\035\037\00480604\2402\2400\206
+12367201	http://crl.rootca1.amazontrust.com/rootca1.crl0	\003U\035\037\00480604\2402\2400\206.http://crl.rootca1.amazontrust.com/rootca1.crl0\023\006\003U\035 \004\0140\0120\010\006\006g\201
+12368447	http://ocsp.rootg2.amazontrust.com	0j0.\006\010+\006\001\005\005\0070\001\206"http://ocsp.rootg2.amazontrust.com08\006\010+\006\001\005\005\0070\002\206,ht
+12368495	http://crt.rootg2.amazontrust.com/rootg2.cer0=	om08\006\010+\006\001\005\005\0070\002\206,http://crt.rootg2.amazontrust.com/rootg2.cer0=\006\003U\035\037\00460402\2400\240.\206
+12368558	http://crl.rootg2.amazontrust.com/rootg2.crl0	\003U\035\037\00460402\2400\240.\206,http://crl.rootg2.amazontrust.com/rootg2.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035
+12369835	http://o.ss2.us/0	0A0\034\006\010+\006\001\005\005\0070\001\206\020http://o.ss2.us/0!\006\010+\006\001\005\005\0070\002\206\025htt
+12369865	http://x.ss2.us/x.cer0&	s/0!\006\010+\006\001\005\005\0070\002\206\025http://x.ss2.us/x.cer0&\006\003U\035\037\004\0370\0350\033\240\031\240\027\206
+12369905	http://s.ss2.us/r.crl0	\003U\035\037\004\0370\0350\033\240\031\240\027\206\025http://s.ss2.us/r.crl0\021\006\003U\035 \004\0120\0100\006\006\004U\035

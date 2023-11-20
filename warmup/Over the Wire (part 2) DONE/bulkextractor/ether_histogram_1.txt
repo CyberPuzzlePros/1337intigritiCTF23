@@ -1,0 +1,8 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: ether
+# Filename: otw_pt2.pcapng
+# Histogram-File-Version: 1.1
+n=13289	00:0C:29:70:5A:0F
+n=13139	00:50:56:F1:7D:39
+n=2	00:50:56:E9:78:E7

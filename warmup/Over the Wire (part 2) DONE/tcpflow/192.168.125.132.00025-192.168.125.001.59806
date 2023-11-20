@@ -1,0 +1,9 @@
+220 kali Python SMTP proxy version 0.3
+250-kali
+250-8BITMIME
+250 HELP
+250 OK
+250 OK
+354 End data with <CR><LF>.<CR><LF>
+250 OK
+221 Bye

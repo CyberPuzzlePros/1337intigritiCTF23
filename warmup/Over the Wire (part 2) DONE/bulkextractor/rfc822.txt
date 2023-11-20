@@ -1,0 +1,12 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: rfc822
+# Filename: otw_pt2.pcapng
+# Feature-File-Version: 1.1
+191709	Host: ocsp.pki.goog	ts1c3 HTTP/1.1\015\012Host: ocsp.pki.goog\015\012User-Agent: Mo
+4047011	Host: ocsp.r2m01.amazontrust.com	OST / HTTP/1.1\015\012Host: ocsp.r2m01.amazontrust.com\015\012User-Agent: Mo
+5247651	Host: ocsp.pki.goog	lNacU HTTP/1.1\015\012Host: ocsp.pki.goog\015\012User-Agent: Mo
+5655359	Host: ocsp.r2m01.amazontrust.com	OST / HTTP/1.1\015\012Host: ocsp.r2m01.amazontrust.com\015\012User-Agent: Mo
+6436383	Host: ocsp.r2m02.amazontrust.com	OST / HTTP/1.1\015\012Host: ocsp.r2m02.amazontrust.com\015\012User-Agent: Mo
+7301461	Host: ocsp.pki.goog	ts1c3 HTTP/1.1\015\012Host: ocsp.pki.goog\015\012User-Agent: Mo
+7362085	Host: ocsp.pki.goog	ts1c3 HTTP/1.1\015\012Host: ocsp.pki.goog\015\012User-Agent: Mo

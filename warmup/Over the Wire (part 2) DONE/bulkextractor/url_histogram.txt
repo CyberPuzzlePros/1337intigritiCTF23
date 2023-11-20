@@ -1,0 +1,62 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: url
+# Filename: otw_pt2.pcapng
+# Histogram-File-Version: 1.1
+n=16	http://ocsp.digicert.com
+n=12	http://crl.rootca1.amazontrust.com/rootca1.crl0
+n=12	http://crl.rootg2.amazontrust.com/rootg2.crl0
+n=12	http://crt.rootca1.amazontrust.com/rootca1.cer0?
+n=12	http://crt.rootg2.amazontrust.com/rootg2.cer0=
+n=12	http://o.ss2.us/0
+n=12	http://ocsp.rootca1.amazontrust.com
+n=12	http://ocsp.rootg2.amazontrust.com
+n=12	http://s.ss2.us/r.crl0
+n=12	http://x.ss2.us/x.cer0&
+n=9	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0
+n=9	http://crl3.digicert.com/DigiCertGlobalRootG2.crl07
+n=9	http://crl4.digicert.com/DigiCertGlobalRootG2.crl0
+n=9	http://crt.r2m01.amazontrust.com/r2m01.cer0
+n=9	http://ocsp.r2m01.amazontrust.com
+n=9	http://oneocsp.microsoft.com/ocsp0
+n=8	http://crl.r2m01.amazontrust.com/r2m01.crl0
+n=6	http://www.digicert.com/CPS0
+n=6	http://www.microsoft.com/pkiops/Docs/Repository.htm0
+n=4	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B
+n=4	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0
+n=4	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=
+n=4	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@
+n=4	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0
+n=4	http://ocsp.digicert.com0I
+n=4	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2006%20-%20xsign.crt0-
+n=4	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2006.crl0f
+n=3	http://crl.r2m02.amazontrust.com/r2m02.crl0
+n=3	http://crt.r2m02.amazontrust.com/r2m02.cer0
+n=3	http://ocsp.r2m02.amazontrust.com
+n=3	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2001%20-%20xsign.crt0-
+n=3	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2001.crl0f
+n=2	http://cacerts.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crt0
+n=2	http://cacerts.digicert.com/DigiCertGlobalRootG2.crt0B
+n=2	http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0H
+n=2	http://crl3.digicert.com/DigiCertGlobalRootG2.crl0=
+n=2	http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl0
+n=2	http://ocsp.digicert.com0Q
+n=2	http://www.iec.ch
+n=2	http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2005%20-%20xsign.crt0-
+n=2	http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl0f
+n=2	https://www.globalsign.com/repository/0
+n=1	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0
+n=1	http://cacerts.digicert.com/DigiCertSHA2SecureServerCA-2.crt0
+n=1	http://crl.globalsign.com/gsgccr3dvtlsca2020.crl0#
+n=1	http://crl.globalsign.com/root-r3.crl0G
+n=1	http://crl.r2m01.amazontrust.com/r2m01.crl0u
+n=1	http://crl3.digicert.com/DigiCertGlobalRootCA.crl07
+n=1	http://crl3.digicert.com/DigicertSHA2SecureServerCA-1.crl0?
+n=1	http://crl4.digicert.com/DigiCertGlobalRootCA.crl00
+n=1	http://crl4.digicert.com/DigicertSHA2SecureServerCA-1.crl0
+n=1	http://ocsp.digicert.com0H
+n=1	http://ocsp.globalsign.com/gsgccr3dvtlsca20200V
+n=1	http://ocsp2.globalsign.com/rootr30;
+n=1	http://secure.globalsign.com/cacert/gsgccr3dvtlsca2020.crt09
+n=1	http://secure.globalsign.com/cacert/root-r3.crt06
+n=1	http://www.digicert.com/CPS0~

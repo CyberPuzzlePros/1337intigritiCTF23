@@ -1,0 +1,21 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: email
+# Filename: otw_pt2.pcapng
+# Feature-File-Version: 1.1
+392513	0xM4hm0ud@example.com	\011"\361\000\000mail FROM:<0xM4hm0ud@example.com>\015\012\000\000\000|\000\000\000\006\000\000\000X\000
+392819	CryptoCat@example.com	\030\020\011B\221\000\000rcpt TO:<CryptoCat@example.com>\015\012\000x\000\000\000\006\000\000\000X\000\000\000
+393531	CryptoCat@example.com	\012To: Recipient <CryptoCat@example.com>\015\012From: Author 
+393569	0xM4hm0ud@example.com	\015\012From: Author <0xM4hm0ud@example.com>\015\012\015\012'\015\012Hi Crypt
+1650305	CryptoCat@example.com	\011j\256\000\000mail FROM:<CryptoCat@example.com>\015\012\000\000\000|\000\000\000\006\000\000\000X\000
+1650611	0xM4hm0ud@example.com	\030\020\011\323*\000\000rcpt TO:<0xM4hm0ud@example.com>\015\012\000x\000\000\000\006\000\000\000X\000\000\000
+1651323	0xM4hm0ud@example.com	\012To: Recipient <0xM4hm0ud@example.com>\015\012From: Author 
+1651361	CryptoCat@example.com	\015\012From: Author <CryptoCat@example.com>\015\012\015\012'\015\012Hey 0xM4
+9443709	0xM4hm0ud@example.com	\011\364:\000\000mail FROM:<0xM4hm0ud@example.com>\015\012\000\000\000|\000\000\000\006\000\000\000X\000
+9444015	CryptoCat@example.com	\030\020\011\023\333\000\000rcpt TO:<CryptoCat@example.com>\015\012\000x\000\000\000\006\000\000\000X\000\000\000
+9445000	CryptoCat@example.com	\012To: Recipient <CryptoCat@example.com>\015\012From: Author 
+9445038	0xM4hm0ud@example.com	\015\012From: Author <0xM4hm0ud@example.com>\015\012\015\012--=========
+12156637	CryptoCat@example.com	\011w\372\000\000mail FROM:<CryptoCat@example.com>\015\012\000\000\000|\000\000\000\006\000\000\000X\000
+12156943	0xM4hm0ud@example.com	\030\020\011\340v\000\000rcpt TO:<0xM4hm0ud@example.com>\015\012\000x\000\000\000\006\000\000\000X\000\000\000
+12157840	0xM4hm0ud@example.com	\012To: Recipient <0xM4hm0ud@example.com>\015\012From: Author 
+12157878	CryptoCat@example.com	\015\012From: Author <CryptoCat@example.com>\015\012\015\012--=========

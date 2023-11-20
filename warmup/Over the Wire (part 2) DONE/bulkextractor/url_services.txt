@@ -1,0 +1,36 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.3
+# Feature-Recorder: url
+# Filename: otw_pt2.pcapng
+# Histogram-File-Version: 1.1
+n=24	://www.microsoft.com
+n=23	://cacerts.digicert.com
+n=23	://crl3.digicert.com
+n=17	://crl4.digicert.com
+n=16	://ocsp.digicert.com
+n=12	://crl.rootca1.amazontrust.com
+n=12	://crl.rootg2.amazontrust.com
+n=12	://crt.rootca1.amazontrust.com
+n=12	://crt.rootg2.amazontrust.com
+n=12	://o.ss2.us
+n=12	://ocsp.rootca1.amazontrust.com
+n=12	://ocsp.rootg2.amazontrust.com
+n=12	://s.ss2.us
+n=12	://x.ss2.us
+n=9	://crl.r2m01.amazontrust.com
+n=9	://crt.r2m01.amazontrust.com
+n=9	://ocsp.r2m01.amazontrust.com
+n=9	://oneocsp.microsoft.com
+n=7	://www.digicert.com
+n=4	://ocsp.digicert.com0I
+n=3	://crl.r2m02.amazontrust.com
+n=3	://crt.r2m02.amazontrust.com
+n=3	://ocsp.r2m02.amazontrust.com
+n=2	://crl.globalsign.com
+n=2	://ocsp.digicert.com0Q
+n=2	://secure.globalsign.com
+n=2	://www.globalsign.com
+n=2	://www.iec.ch
+n=1	://ocsp.digicert.com0H
+n=1	://ocsp.globalsign.com
+n=1	://ocsp2.globalsign.com
