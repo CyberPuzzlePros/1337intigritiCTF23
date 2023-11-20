@@ -24,8 +24,8 @@ while True:
 		resp = s.post(url + "/submit_flag", json=payload, headers=headers)
 
 		if "correct flag!" in resp.text:
-			print(f"[*]Flag: {flag}", flush=True)
 			flag += char
+			print(f"[*]Flag: {flag}", flush=True)
 		if flag.endswith('}'):
 			break
 	else:
